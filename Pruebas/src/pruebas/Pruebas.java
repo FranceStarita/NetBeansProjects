@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package pruebas;
-
+    import java.util.Scanner; //Importando sacanner
 /**
  *
  * @author USUARIO
@@ -18,6 +18,12 @@ public class Pruebas {
         // TODO code application logic here
         System.out.println("David ");
         System.out.println("Diego ");
+        
+        //Modificado por Elimes R
+        Scanner leer = new Scanner(System.in);
+        //LEER VALORES CADENAS de Texto
+        System.out.println("Escribe tu nombre");
+        String nombre=leer.nextLine();
         
         
         
