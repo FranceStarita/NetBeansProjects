@@ -18,6 +18,7 @@ public class Pruebas {
         // TODO code application logic here
         System.out.println("David ");
         System.out.println("Diego ");
+        System.out.println("Todosd");
         
         //Modificado por Elimes R
         Scanner leer = new Scanner(System.in);
